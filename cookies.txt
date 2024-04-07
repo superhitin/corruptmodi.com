@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.thehindu.com	TRUE	/	FALSE	1999999999	_cfuvid	z91SkWwGZUw.YZHoxN7Iq1Kd970NE009rQIJk08_Bc8-1712463724640-0.0.1.1-604800000
+www.thehindu.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.india.com	TRUE	/	FALSE	1999999999	traffic_source	www.corruptmodi.com
+www.india.com	TRUE	/	FALSE	1999999999	traffic_medium	Referral
+.hindustantimes.com	TRUE	/	FALSE	1999999999	ht-location	IN
+
